@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedrovsfelix/pystreamlit)
 
-<img src="https://i.ibb.co/8gS04QL/dashboard.png" style="max-height: 430px;" alt="Dashboard">
+<img src="https://i.ibb.co/qMmD5kj/dashboard.png" style="max-height: 430px;" alt="Dashboard">
 
 > Projeto desenvolvido em python para análise de dados com combustíveis comercialiados em litros por estado/região.
 
